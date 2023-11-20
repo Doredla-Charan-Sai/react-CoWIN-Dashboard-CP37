@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.coverage-cont {
+  background-color: #1c1c2b;
+  background-size: cover;
+  padding: 30px;
+  border-radius: 8px;
+  height: 600px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
